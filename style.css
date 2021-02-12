@@ -1,0 +1,79 @@
+.container{
+  width: 850px;
+  height: 600px;
+  margin: auto;
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 3%;
+}
+
+.logo{
+  width: 200px;
+  margin-top: 80px;
+  margin-left: 350px;
+
+}
+
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+.logo-text{
+  color: #39FF14;
+  text-align: center;
+  font-size: 30px;
+  height: 20px;
+}
+
+.pulsante{
+  display: inline-block;
+  margin-top: 6px;
+}
+
+.strip{
+  background-color: #39FF14;
+  height: 35px;
+  width: 700px;
+  margin:0px auto;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.big{
+  font-size: 18px;
+}
+
+.scooter{
+  margin-left: 75px;
+}
+
+.pattino{
+  color: white;
+  width: 70%;
+  margin left: 200px;
+  font-size: 15px;
+}
+
+#carica1{
+  background-color: orange;
+  width: 200px;
+  height: 20px;
+  border-radius: 5px 5px 5px 5px;
+  margin-bottom: 20px;
+}
+
+#carica2{
+  background-color: #39FF14;
+  width: 300px;
+  height: 20px;
+  border-radius: 5px 5px 5px 5px;
+  margin-bottom: 20px;
+}
+
+#carica3{
+  background-color: red;
+  width: 100px;
+  height: 20px;
+  border-radius: 5px 5px 5px 5px;
+  margin-bottom: 20px;
+}
